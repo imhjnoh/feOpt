@@ -2,6 +2,6 @@
 2024.01.25 ~
 
 # 기록
-https://www.notion.so/hjnoh/2024-fd84fe927ab445d7b085ef2c5f031867?pvs=4
+[https://www.notion.so/hjnoh/2024-fd84fe927ab445d7b085ef2c5f031867?pvs=4](https://hjnoh.notion.site/2024-fd84fe927ab445d7b085ef2c5f031867?pvs=4)https://hjnoh.notion.site/2024-fd84fe927ab445d7b085ef2c5f031867?pvs=4
 
 
