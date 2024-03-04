@@ -1,10 +1,14 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 import styled from 'styled-components'
 import ImageGallery from 'react-image-gallery'
 import 'react-image-gallery/styles/css/image-gallery.css'
 import btnClose from '../assets/btn-close.png'
 
 const ImageModal = (props) => {
+    useEffect(() => {
+        const image = new Image();
+        image.src = images[0].original;
+    }, [])
     const images = [
         {
             original: 'https://stillmed.olympic.org/media/Photos/2016/08/20/part-1/20-08-2016-Football-Men-01.jpg?interpolation=lanczos-none&resize=*:800',
